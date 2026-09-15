@@ -28,5 +28,5 @@ value = "true"
 
 )
 
-public class RunnerClass {
+public class RunnerClassTest {
 }
